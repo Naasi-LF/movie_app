@@ -1,0 +1,56 @@
+【观后感】    【音乐舞蹈】  【喜剧】     【表演】     【社会议题】
+topic 0     topic 1     topic 2     topic 3     topic 4
+--------    --------    --------    --------    --------    
+didn        music       comedy      role        sex         
+thought     musical     funny       john        women       
+thing       songs       fun         performance tom         
+lot         song        zombie      cast        american    
+though      dance       horror      play        black       
+doesn       dancing     house       actor       woman       
+want        singing     dr          played      around      
+going       kelly       comedies    mr          another     
+10          number      humor       james       christmas   
+things      numbers     doctor      british     white       
+re          allen       afraid      plays       house       
+real        band        hilarious   new         our         
+actually    stage       laughs      young       doesn       
+few         voice       grant       jack        three       
+every       tarzan      werewolf    ben         own     
+
+【恐怖惊悚】  【负面评价】  【经典电影】  【政治历史】  【动作警匪】
+topic 5     topic 6     topic 7     topic 8     topic 9
+--------    --------    --------    --------    --------    
+horror      worst       cartoon     war         action      
+effects     awful       de          political   police      
+gore        script      sucks       us          fight       
+blood       waste       ship        church      hero        
+scary       nothing     cartoons    world       lee         
+pretty      terrible    columbo     german      cop         
+killer      budget      caine       south       car         
+dead        minutes     bourne      history     guy         
+gets        low         titanic     government  charlie     
+special     stupid      davis       god         gets        
+night       money       lisa        anti        fighting    
+monster     actors      hole        christian   gun         
+evil        crap        stanwyck    against     martial     
+around      boring      nancy       hitler      keaton      
+slasher     horrible    inspector   religious   arts  
+      
+【人物】     【电视】      【科幻】     【视觉】     【家庭】
+topic10     topic11     topic12     topic13     topic14
+--------    --------    --------    --------    --------    
+steve       show        michael     world       young       
+match       series      sci         action      father      
+jerry       tv          fi          quite       family      
+bob         episode     rock        original    woman       
+anna        old         star        beautiful   wife        
+sean        family      jackson     animation   between     
+dan         kids        chris       years       director    
+eric        funny       bruce       game        seems       
+ted         years       arthur      work        murder      
+che         episodes    jim         special     mother      
+superman    shows       welles      new         own         
+reunion     now         kate        both        both        
+ring        season      oscar       cinema      son         
+elvira      television  sam         effects     makes       
+dave        year        moore       art         takes       
